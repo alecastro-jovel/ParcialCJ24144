@@ -4,7 +4,7 @@
       <v-row justify="center" align="center">
         <v-col cols="12" class="text-center text-white mb-4">
           <LogoUls :size="84" />
-          <h1 class="text-h4 font-weight-bold mt-2">Sistema de Gestión de Constancias o Notas ULS</h1>
+          <h1 class="text-h4 font-weight-bold mt-2">Sistema de Gestión de Constancias</h1>
           <p class="text-subtitle-1">Selecciona tu tipo de acceso</p>
         </v-col>
 
